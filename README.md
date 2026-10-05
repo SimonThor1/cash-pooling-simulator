@@ -22,7 +22,7 @@ flowchart LR
     P --> N["Net balance<br/>+1,000,000 SEK"]
 ```
 
-##  Example of this (fictional numbers)
+##  Example of this 
 
 Assumed rates: 1% on deposits, 6% on overdrafts.
 
@@ -31,11 +31,11 @@ Assumed rates: 1% on deposits, 6% on overdrafts.
 | A       | +2,000,000    | +20,000                 | –                    |
 | B       | -1,500,000    | -90,000                 | –                    |
 | C       | +500,000      | +5,000                  | –                    |
-| **Net** | **+1,000,000**| **-65,000**             | **+10,000**          |
+| **Net** | ##############| **-65,000** (fixa tabeller)             | **+10,000**          |
 
 **Result: the company improves its yearly result by 75,000 SEK.**
 
-## To be continued...
+## To be continued... fortsätt här
 
 ##  
 
