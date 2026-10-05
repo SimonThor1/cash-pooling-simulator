@@ -8,7 +8,7 @@ Just for fun :)
 A small project exploring how a **cash pool** affects interest costs
 and income for a company with several bank accounts.
 
-##  The idea
+## 
 
 Companies often have some accounts in overdraft while others hold
 surplus cash. A cash pool nets the balances, so interest is paid on
@@ -22,7 +22,7 @@ flowchart LR
     P --> N["Net balance<br/>+1,000,000 SEK"]
 ```
 
-##  Example (fictional numbers)
+##  Example of this (fictional numbers)
 
 Assumed rates: 1% on deposits, 6% on overdrafts.
 
@@ -43,6 +43,6 @@ Assumed rates: 1% on deposits, 6% on overdrafts.
 - [ ] Different interest rates per account
 - [ ] Compare physical vs. notional pooling
 
-##  Author
+##  
 
-Simon Thorsell, Economics student at Uppsala University
+Simon Thorsell
