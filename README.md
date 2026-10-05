@@ -35,13 +35,7 @@ Assumed rates: 1% on deposits, 6% on overdrafts.
 
 **Result: the company improves its yearly result by 75,000 SEK.**
 
-##  Roadmap
-
-- [x] Describe the concept
-- [x] Calculate a simple example
-- [ ] Python simulation with daily balances
-- [ ] Different interest rates per account
-- [ ] Compare physical vs. notional pooling
+## To be continued...
 
 ##  
 
